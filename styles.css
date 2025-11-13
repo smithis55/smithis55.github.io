@@ -28,7 +28,7 @@ img{
 .projects { 
     /* make the blobs float side-by-side */
 	display:flex; 
-	flex-wrap:wrap;  
+	flex-wrap:nowrap;
 } 
 .projects h2 {
     /* display the h2 on its own line, not with the section blobs */
