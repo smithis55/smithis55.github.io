@@ -33,36 +33,47 @@ img{
     align-items: center;
 }
 
+/* All project cards container */
 .projects {
 display: flex;
 justify-content: center;
 gap: 40px;
+margin-top: 40px;
 flex-wrap: wrap;
-width: 100%;
-margin-top: 20px;
 }
 
-.project {
+/* Individual card */
+.project-card {
 width: 350px;
-background: lightslategray;
-border-radius: 25%;
-padding: 20px;
+background: rgb(190, 202, 224);
+padding: 25px;
+border-radius: 30px;
 text-align: center;
 }
 
-.project h3 {
+/* Project title */
+.project-card h3 {
 margin-bottom: 15px;
+color: navy;
+text-decoration: underline;
 }
 
-.project img {
-width: 80%;
+/* Image inside card */
+.project-card img {
+width: 90%;
 height: auto;
+border-radius: 12px;
 border: 2px solid navy;
-display: block;
-margin: 0 auto 10px auto;
 }
 
-.project p {
+/* Description text */
+.project-card p {
 margin-top: 10px;
+font-size: 14px;
+}
+
+/* Contact section */
+.contact {
 text-align: center;
+margin-top: 50px;
 }
