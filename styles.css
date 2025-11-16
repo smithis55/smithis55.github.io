@@ -1,6 +1,6 @@
 p{ 
     text-align: left;
-    font-family: fantasy;
+    font-family: 'Times New Roman', Times, serif;
     color: hsl(359, 78%, 25%);
     font-size: x-large;
 }
@@ -11,7 +11,7 @@ a{
 
 h1{
     text-align: center;
-    font-family: fantasy;
+    font-family: 'Times New Roman', Times, serif;
     font-weight: 400;
     color: 700e10;
     font-size: xx-large;
@@ -19,13 +19,13 @@ h1{
 
 h2{
     text-align: center;
-    font-family: fantasy;
+    font-family: 'Times New Roman', Times, serif;
     font-size: xx-large;
 }
 
 h3{
     text-align: center;
-    font-family: fantasy;
+    font-family: 'Times New Roman', Times, serif;
     font-size: xx-large;
 }
 
