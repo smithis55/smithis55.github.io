@@ -1,7 +1,7 @@
 p{ 
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
-    color: #1A535C;
+    color: #13aec6;
     font-size: x-large;
 }
 
@@ -47,7 +47,7 @@ img{
     width: 30%;
     margin: 10px;
     padding: 20px 10px;
-    background: #6B705C;
+    background: #5b6835;
     /* rounded corners for the blobs */
     border-radius: 25%;
 }
@@ -60,7 +60,7 @@ img{
     width: 400px;
     height: 300px;
     margin: 10px auto;
-    border: 2px solid #FFE8D6;
+    border: 2px solid #b86425;
     display: block;
     /* center the images inside the blobs */
     text-align: center;
